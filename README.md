@@ -1,0 +1,2 @@
+# launcher-fluidhome
+yes
